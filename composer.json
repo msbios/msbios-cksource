@@ -6,6 +6,7 @@
     "php"
   ],
   "homepage": "https://cksource.com/ckfinder",
+  "minimum-stability": "dev",
   "require": {
     "php": ">=5.3",
     "aws/aws-sdk-php": "^3.25",
